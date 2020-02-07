@@ -1,0 +1,27 @@
+{
+  "name": "thedoctorprojectbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CastelloDev/TheDoctorProjectBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CastelloDev/TheDoctorProjectBackend/issues"
+  },
+  "homepage": "https://github.com/CastelloDev/TheDoctorProjectBackend#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.3",
+    "sequelize-cli": "^5.5.1"
+  }
+}
